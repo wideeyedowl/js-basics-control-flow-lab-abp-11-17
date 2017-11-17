@@ -13,7 +13,7 @@ function scuberGreetingForFeet(distance)
     {
       return "No can do.";
     }
-    
+
 }
 
 function ternaryCheckCity(city)
@@ -28,22 +28,10 @@ function switchOnCharmFromTip(tip)
     case 'generous':
     return "Thank you so much.";
     break;
-    case 'not so generous':
+    case 'not as generous':
     return "Thank you.";
     break;
     default:
-    return "Bye";
+    return "Bye.";
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
